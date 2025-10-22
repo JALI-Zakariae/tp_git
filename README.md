@@ -1,7 +1,1 @@
-"# Git & GitHub Lab - Version B" 
-"" 
-"## Lab Objectives" 
-"- Comprendre les bases de Git" 
-"- Maåtriser les commandes fondamentales" 
-"- Apprendre Ö collaborer avec GitHub" 
-"- GÇrer les branches et les merges" 
+"VersionA" 
