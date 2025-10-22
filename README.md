@@ -1,4 +1,4 @@
-"#Git&Github Lab" 
+"# Git & GitHub Lab - Version A" 
 "" 
 "## Lab Objectives" 
 "- Comprendre les bases de Git" 
